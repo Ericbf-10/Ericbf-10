@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ericbf-10
-- 👀 I’m interested in Systems and Synthetic Biology.
+- 👀 I’m interested in Systems Biology and Health Technology.
 - 🌱 I’m currently learning Bioinformatics.
 - 💞️ I’m looking to collaborate on university projects.
 - 📫 How to reach me: ericbaufa10@gmail.com
